@@ -1,0 +1,103 @@
+body {
+  background-color: hsl(1, 100%, 83%);
+  font-family: "Kodchasan";
+}
+p {
+  font-family: "Kodchasan";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 15px;
+  line-height: 30px;
+  text-align: center;
+}
+
+li {
+  font-family: "Kodchasan";
+  font-style: normal;
+  font-weight: 150;
+  font-size: 12px;
+  line-height: 25px;
+  text-align: center;
+}
+
+.uxresearcher {
+  position: absolute;
+  left: 0px;
+  width: 300px;
+  height: 190%;
+  padding: 10px;
+
+  background: #d2f6fa;
+  border-radius: 25px;
+
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 50px;
+
+  color: #000000;
+}
+
+.uxwriter {
+  position: absolute;
+  left: 320px;
+  width: 300px;
+  height: 190%;
+  padding: 10px;
+
+  background: #fde5b4;
+  border-radius: 25px;
+
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 50px;
+
+  color: #000000;
+}
+
+.uxdesigner {
+  position: absolute;
+  left: 960px;
+  width: 300px;
+  height: 190%;
+  padding: 10px;
+
+  background: #f8dfeb;
+  border-radius: 25px;
+
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 50px;
+
+  color: #000000;
+}
+
+
+.uxstrategist {
+  position: absolute;
+  left: 640px;
+  width: 300px;
+  height: 190%;
+  padding: 10px;
+
+  background: #bbfac5;
+  border-radius: 25px;
+
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 50px;
+
+  color: #000000;
+}
+
+
+
+/* home button for the learnmore page */
+.homebutton {
+  background-color: #fde5b4;
+  border: none;
+  color: black;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 25px;
+}
